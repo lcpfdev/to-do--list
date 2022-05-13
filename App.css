@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+ 
+}
+
+* {
+   font-weight: 600;
+  background-color: rgb(206, 206, 206);
+  font-size: 20px;
+}
+
+.header {
+  font-size: 20px;
+  font-weight:bolder;
+}
+
+
+input {
+  padding: 12px;
+  margin-right: 8px
+}
+
+ul {
+  list-style: none;
+}
+ 
+li {
+
+  margin: 12px;
+}
+
+.delBtn {
+  margin-left: 8px;
+  border: none;
+  padding-top: 10px;
+  color: red;
+}
+
+.addBtn {
+  font-size: 24px;
+  font-weight: 900;
+  margin-top: 28px;
+  outline: 2px;
+
+  border: 2px
+}
+
+.inputBx {
+  color: rgb(0, 0, 0);
+  size: 800px;
+  font-weight: 600;
+  outline-color: rgb(73, 73, 73);
+}
+
